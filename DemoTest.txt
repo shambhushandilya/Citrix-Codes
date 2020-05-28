@@ -1,1 +1,0 @@
-hello There! this is demo file for git push command test, hope you will learn some good stuffs today!!
